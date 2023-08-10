@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dowload:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dowload_jar</output-path>
+    <root id="archive" name="Dowload.jar">
+      <element id="module-output" name="Dowload" />
+    </root>
+  </artifact>
+</component>
